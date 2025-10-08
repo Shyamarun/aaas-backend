@@ -20,3 +20,5 @@ requests
 
 # Utilities
 python-dotenv
+
+langchain-community
