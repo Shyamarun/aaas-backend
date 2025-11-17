@@ -1,0 +1,24 @@
+# Core backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Embeddings and RAG
+sentence-transformers
+langchain
+langchain-community
+chromadb
+
+# LLM (Groq)
+groq
+
+# Database (Supabase)
+supabase
+
+# Data loaders
+pypdf
+beautifulsoup4
+requests
+
+# Utilities
+python-dotenv
